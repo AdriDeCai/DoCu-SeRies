@@ -10,7 +10,7 @@
 	[
 
 	{
-	"name": "1. Permaner (Parte 1)",
+	"name": "1. Permanyer (Parte 1)",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
         "url": "https://filemoon.sx/d/0mdd8w32zdja/Cr_menes_2x01_Permanyer__Parte_1_.mkv",
        	"info": "[Español 2020]",
@@ -23,7 +23,7 @@
 	{
 	"name": "2. Permaner (Parte 2)",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "https://filemoon.sx/d/0mdd8w32zdja/Cr_menes_2x01_Permanyer__Parte_1_.mkv",
+        "url": "https://filemoon.sx/d/lgy87bv32888/Cr_menes_2x02_Permanyer__Parte_2_.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -32,9 +32,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "3. La flor",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/dzszrugxv0bu/Cr_menes_2x03_La_flor.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -43,9 +43,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "4. Santalo",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/1qy8i4wn6gb9/Crimenes_2x04_Santalo.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -54,9 +54,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "5. Pirls",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/9f48k4lk1yuo/Cr_menes_2x05_Piris.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -65,9 +65,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "6. Sant Ruf",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/qx8xkxbs5lwj/Cr_menes_2x06_Sant_Ruf.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -76,9 +76,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "7. Can Amat",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/8byzl9x5g7e6/Cr_menes_2x07_Can_Amat.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -87,9 +87,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "8. Angle",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/mv56wfu5lum5/Cr_menes_2x08_angie.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -98,9 +98,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "9. Castell (Parte 1)",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/nkrrd173pqkl/Cr_menes_2x09_castell_-1_parte-.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -109,9 +109,9 @@
        	"import": false
        	},
 	{
-	"name": "",
+	"name": "10. Castell (Parte 2)",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
-        "url": "",
+        "url": "https://filemoon.sx/d/45gzh80gewd8/Cr_menes_2x10_castell_-2_parte-.mkv",
        	"info": "[Español 2020]",
        	"embed": "",
        	"isHost": "true",
@@ -119,7 +119,6 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
-
 
 ]
 }
