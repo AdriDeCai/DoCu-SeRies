@@ -9,6 +9,127 @@
 	[
 
 	{
+	"name": "Kevin",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "https://filemoon.sx/d/bshdqy79chyt/3x01_Crimenes.mp4",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Isidre",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "https://filemoon.sx/d/gv96fdefxvts/3x02_Crimenes.mp4",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Manoli",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "https://filemoon.sx/d/3rgt3t96ra78/3x03_Crimenes.mp4",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Sonia",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "https://filemoon.sx/d/6i95xzjmzebe/3x04_Crimenes.mp4",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "",
+        "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
+        "url": "",
+       	"info": "[Español 2020]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
 	"name": "",
         "image": "https://pics.filmaffinity.com/crims-190785863-large.jpg",
         "url": "",
@@ -19,7 +140,6 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	}
-
 
 ]
 }
