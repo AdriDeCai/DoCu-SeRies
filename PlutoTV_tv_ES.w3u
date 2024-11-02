@@ -3,7 +3,7 @@
     "author": "Actualizada 01/11/2024 18:30",
     "epg": "https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz",
     "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/plutotv.png",
-    "url": "/PlutoTV_tv_ES.w3u",
+    "url": "https://raw.githubusercontent.com/AdriDeCai/DoCu-SeRies/refs/heads/main/PlutoTV_tv_ES.w3u",
     "groups": [
         {
             "name": "Halloween",
